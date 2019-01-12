@@ -7,3 +7,7 @@
 Name: Michael Woodruff <br>
 this is a solution to Hitesh Choudhary's Target Sum by 2 saturday coding challenge <br>
 [link to coding challenge](https://www.youtube.com/watch?v=HJxQUDaNOgI)
+
+### VIDEO
+Here is my video solution <br>
+[video](https://drive.google.com/open?id=17adNCuRWppJrlcUJA_Exfmy2UYZJ6cFs)
