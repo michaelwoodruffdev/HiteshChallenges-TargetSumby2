@@ -48,6 +48,10 @@ $('#calculate').click(() => {
             delete map[element];
             delete map[targetSum - element];
         }
+        if (element == targetSum && element in map) {
+            solution.push([parseInt(element)]);
+            delete map[element];
+        }
     });
 
     // output solution
